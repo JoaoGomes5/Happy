@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img alt="Logo" src="https://res.cloudinary.com/joaogomes5/image/upload/v1604592092/GitHub/happylogo.png" width="400px">
+</div>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
